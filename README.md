@@ -1,2 +1,5 @@
-# capstone-projects
-A collection of 20 projects built using Python, JavaScript, React, Node.js, and other technologies and much much more 
+## Projects
+
+| Project | Description | Technologies | Status |
+|---|---|---|---|
+| [Text to Morse Code Converter](./project-01-morse-code-converter/) | Converts text into Morse code | Python | Completed |
